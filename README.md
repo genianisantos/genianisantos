@@ -3,9 +3,9 @@
   <h1 align="center">
     Olá! Seja Bem-vind@. 
   </h1>
-   <h3 align="center">
+   <h2 align="center">
        <em> EU ME CHAMO GENIANI STEFANI </em></h3> </p>
- <i><h5> <p align="center"> 
+ <i><h2> <p align="center"> 
     Sou Estudante do Colégio Olavo Bilac-EFM, estou aprendendo sobre o mundo de desenvolvimento e tecnologia com a professora de PC (Pensamento Computacional) Francinilda.
       <div align="center">
         <p><h2>📲Se tiver interrese em falar comigo acesse:</h2></p>
